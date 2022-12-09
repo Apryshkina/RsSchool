@@ -1,2 +1,2 @@
 #test Repo
-New text in fix1
+New text in branch fix2 from fix1
